@@ -9,7 +9,7 @@ export const metadata = buildMetadata({
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-4">
-      <h1 className="text-2xl font-semibold">Divika — scaffold placeholder</h1>
+      <h1 className="text-2xl font-semibold">Next Template — scaffold placeholder</h1>
       <Button>Homepage design goes here</Button>
     </main>
   );

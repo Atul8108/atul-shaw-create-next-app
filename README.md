@@ -1,6 +1,6 @@
-# Next tamplate Web
+# Next Template
 
-Next.js rebuild of the Next tamplate e-commerce storefront. TypeScript, Tailwind v4, Zustand, axios.
+A production-ready Next.js starter — TypeScript, Tailwind v4, Zustand, axios — with an enforced feature-based architecture. Ships with a working example feature (`product`) as the reference pattern to copy.
 
 ## Contents
 

@@ -1,7 +1,7 @@
 import { env } from "./env";
 
 export const siteConfig = {
-  name: "Divika",
-  description: "Shop quality products online at Divika — fast delivery, secure checkout.",
+  name: "Next Template",
+  description: "A production-ready Next.js starter with an enforced feature-based architecture.",
   url: env.siteUrl,
 } as const;
